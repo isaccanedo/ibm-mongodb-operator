@@ -14,7 +14,7 @@ Red Hat OpenShift Container Platform 4.2 ou mais recente instalado em uma das se
 
 | Versão | Data | Detatalhes |
 | ----- | ---- | ----------------- |
-| 1.1.0 | July 2020 | Allow users to configure their own admin secret </br> - The CSV defines dependencies that it has to run
+| 1.1.0 | July 2020 | Permitir que os usuários configurem seu próprio segredo administrativo </br> - O CSV define as dependências que ele deve executar
 | 1.0.0 | March 2020 | Initial Offering of MongoDB operator
 
 ## Prerequisites
