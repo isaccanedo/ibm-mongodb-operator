@@ -4,7 +4,7 @@ O operador `ibm-mongodb-operator` é construído para suportar o IBM Cloud Platf
 
 ## Plataformas suportadas
 
-Red Hat OpenShift Container Platform 4.2 or newer installed on one of the following platforms:
+Red Hat OpenShift Container Platform 4.2 ou mais recente instalado em uma das seguintes plataformas:
 
    - Linux x86_64
    - Linux on Power (ppc64le)
