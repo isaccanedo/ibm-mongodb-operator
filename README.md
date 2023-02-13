@@ -10,7 +10,7 @@ Red Hat OpenShift Container Platform 4.2 ou mais recente instalado em uma das se
    - Linux on Power (ppc64le)
    - Linux on IBM Z and LinuxONE
 
-## Operator versions
+## Versões do operador
 
 | Version | Date | Details |
 | ----- | ---- | ----------------- |
