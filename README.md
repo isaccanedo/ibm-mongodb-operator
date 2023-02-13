@@ -2,7 +2,7 @@
 
 O operador `ibm-mongodb-operator` é construído para suportar o IBM Cloud Platform Common Services. Ele suporta um banco de dados mongoDB que é compartilhado pelos serviços dentro do IBM Cloud Platform Common Services.
 
-## Supported platforms
+## Plataformas suportadas
 
 Red Hat OpenShift Container Platform 4.2 or newer installed on one of the following platforms:
 
