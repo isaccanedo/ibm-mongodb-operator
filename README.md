@@ -25,7 +25,7 @@ Antes de instalar este operador, você precisa primeiro instalar as dependência
 
 - Para obter a lista de pré-requisitos para instalar o operador, consulte o IBM Knowledge Center [Preparando para instalar a documentação de serviços](http://ibm.biz/cpcs_opinstprereq).
 
-## Documentation
+## Documentatação
 
 To install the operator with the IBM Common Services Operator follow the installation and configuration instructions within the IBM Knowledge Center.
 
