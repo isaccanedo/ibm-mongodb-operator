@@ -19,7 +19,7 @@ Red Hat OpenShift Container Platform 4.2 ou mais recente instalado em uma das se
 
 ## Pré-requisitos
 
-Before you install this operator, you need to first install the operator dependencies and prerequisites:
+Antes de instalar este operador, você precisa primeiro instalar as dependências e pré-requisitos do operador:
 
 - For the list of operator dependencies, see the IBM Knowledge Center [Common Services dependencies documentation](http://ibm.biz/cpcs_opdependencies).
 
