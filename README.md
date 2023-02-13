@@ -1,6 +1,6 @@
 # ibm-mongodb-operator
 
-O operador `ibm-mongodb-operator` é construído para suportar o IBM Cloud Platform Common Services. It stands up a mongoDB database that is shared by the services within IBM Cloud Platform Common Services.
+O operador `ibm-mongodb-operator` é construído para suportar o IBM Cloud Platform Common Services. Ele suporta um banco de dados mongoDB que é compartilhado pelos serviços dentro do IBM Cloud Platform Common Services.
 
 ## Supported platforms
 
