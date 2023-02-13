@@ -17,7 +17,7 @@ Red Hat OpenShift Container Platform 4.2 ou mais recente instalado em uma das se
 | 1.1.0 | Julho 2020 | Permitir que os usuários configurem seu próprio segredo administrativo </br> - O CSV define as dependências que ele deve executar
 | 1.0.0 | Março 2020 | Oferta inicial do operador MongoDB
 
-## Prerequisites
+## Pré-requisitos
 
 Before you install this operator, you need to first install the operator dependencies and prerequisites:
 
