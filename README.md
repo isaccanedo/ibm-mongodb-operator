@@ -27,10 +27,10 @@ Antes de instalar este operador, você precisa primeiro instalar as dependência
 
 ## Documentatação
 
-To install the operator with the IBM Common Services Operator follow the installation and configuration instructions within the IBM Knowledge Center.
+Para instalar o operador com o IBM Common Services Operator, siga as instruções de instalação e configuração no IBM Knowledge Center.
 
-- If you are using the operator as part of an IBM Cloud Pak, see the documentation for that IBM Cloud Pak. For a list of IBM Cloud Paks, see [IBM Cloud Paks that use Common Services](http://ibm.biz/cpcs_cloudpaks).
-- If you are using the operator with an IBM Containerized Software, see the IBM Cloud Platform Common Services Knowledge Center [Installer documentation](http://ibm.biz/cpcs_opinstall).
+- Se você estiver usando o operador como parte de um IBM Cloud Pak, consulte a documentação desse IBM Cloud Pak. Para obter uma lista de IBM Cloud Paks, consulte [IBM Cloud Paks que usam serviços comuns](http://ibm.biz/cpcs_cloudpaks).
+- Se você estiver usando o operador com um IBM Containerized Software, consulte o IBM Cloud Platform Common Services Knowledge Center [documentação do instalador](http://ibm.biz/cpcs_opinstall).
 
 ## SecurityContextConstraints Requirements
 
