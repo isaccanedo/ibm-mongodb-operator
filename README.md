@@ -94,9 +94,9 @@ For more information about the OpenShift Container Platform Security Context Con
 
 **_Admin Secret_**
 
-Starting with version 1.1.0, you can now supply your own `icp-mongodb-admin` secret. The secret must have a `user` field and a `password` field and be in the same namespace where mongoDB is going to be created. If you choose not to supply a secret, a random user and password will be created and used. The `icp-mongodb-admin` secret will persist after uninstalling or removing the MongoDB custom resource so that uninstall and re-install are possible by using the same Persistent Volumes.
+A partir da versão 1.1.0, agora você pode fornecer seu próprio segredo `icp-mongodb-admin`. O segredo deve ter um campo `user` e um campo `password` e estar no mesmo namespace onde o mongoDB será criado. Se você optar por não fornecer um segredo, um usuário e uma senha aleatórios serão criados e usados. O segredo `icp-mongodb-admin` persistirá após a desinstalação ou remoção do recurso personalizado MongoDB para que a desinstalação e a reinstalação sejam possíveis usando os mesmos volumes persistentes.
 
-Example YAML for creating your own admin secret before installation. The user and password are base64 encrypted.
+Exemplo de YAML para criar seu próprio segredo de administrador antes da instalação. O usuário e a senha são criptografados em base64.
 ```
 apiVersion: v1
 kind: Secret
