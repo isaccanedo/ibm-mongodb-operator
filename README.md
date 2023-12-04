@@ -34,9 +34,9 @@ Para instalar o operador com o IBM Common Services Operator, siga as instruçõe
 
 ## SecurityContextConstraints Requirements
 
-The IBM Common Services MongoDB service supports running with the OpenShift Container Platform 4.3 default restricted Security Context Constraints (SCCs).
+O serviço IBM Common Services MongoDB suporta a execução com as Restrições de Contexto de Segurança (SCCs) restritas padrão do OpenShift Container Platform 4.3.
 
-Custom SecurityContextConstraints definition:
+Definição personalizada de SecurityContextConstraints:
 
 ```
 allowHostDirVolumePlugin: false
