@@ -88,9 +88,9 @@ volumes:
 - secret
 ```
 
-For more information about the OpenShift Container Platform Security Context Constraints, see [Managing Security Context Constraints](https://docs.openshift.com/container-platform/4.3/authentication/managing-security-context-constraints.html).
+Para obter mais informações sobre as restrições de contexto de segurança do OpenShift Container Platform, consulte [Gerenciando restrições de contexto de segurança](https://docs.openshift.com/container-platform/4.3/authentication/managing-security-context-constraints.html).
 
-### Key Features
+### Características principais
 
 **_Admin Secret_**
 
